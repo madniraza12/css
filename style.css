@@ -1,0 +1,20 @@
+h1 {
+  color: aqua;
+  font-size: 4rem;
+  text-transform: capitalize;
+}
+i {
+  font-size: 24px;
+  color: red;
+}
+h1 {
+  filter: drop-shadow(4px 4px 10px red);
+}
+.link{
+    font-size: 16px;
+    color: blue;
+    text-decoration: underline;
+}
+.link:hover{
+    cursor: pointer;
+}
